@@ -16,6 +16,8 @@
 
 ## Demo
 
+Try it now ! [Clockmap Demo](https://julienr2.github.io/clockmap/)
+
 <img src="./docs/img/clockmap.gif" width="600" alt="Clockmap demo">
 
 ## Installation
