@@ -16,7 +16,7 @@
 
 ## Demo
 
-<img src="./demo/img/clockmap.gif" width="600" alt="Clockmap demo">
+<img src="./docs/img/clockmap.gif" width="600" alt="Clockmap demo">
 
 ## Installation
 
