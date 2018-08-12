@@ -1,10 +1,24 @@
-# Clockmap
+<h1 align="center">
+  Clockmap
+  <br>
+</h1>
 
-A small lib to create a nice looking clock display the hour and the map of the city of your choice
+<h4 align="center">Nice looking clock displaying the hour and the map of the city of your choice</h4>
 
-![alt tag](./demo/img/clockmap.gif)
+<p align="center">
+  <a href="#demo">Demo</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#contribute">Contribute</a> •
+  <a href="#references">References</a> •
+  <a href="#license">License</a> •
+  <a href="#authors">Authors</a>
+</p>
 
-## Use it
+## Demo
+
+<img src="./demo/img/clockmap.gif" width="600" alt="Clockmap demo">
+
+## Installation
 
 **Configuration**
 
@@ -48,7 +62,15 @@ var myHomeClock = new ClockMap({
 
 `$ npm run watch`
 
-## Sources and inspirations
+## References
 
 * Iulian Anghel (http://codepen.io/iulianghel/)
 * Cssanimation (https://cssanimation.rocks/clocks/)
+
+## License
+
+Distributed under the MIT license.
+
+## Authors
+
+[Julien Rougeron](https://github.com/julienr2) – [Portoflio](https://julienr2.github.io) – julien.rougeron@gmail.com
